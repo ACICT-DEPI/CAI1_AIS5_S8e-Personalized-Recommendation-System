@@ -35,11 +35,6 @@ To get the project up and running, follow these steps:
    cd movie-recommender
    ```
 
-2. **Install Dependencies**:
-   Make sure to install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## How to Use
 
