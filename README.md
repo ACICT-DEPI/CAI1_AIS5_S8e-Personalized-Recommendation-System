@@ -7,7 +7,6 @@ Welcome to the Movie Recommender System project! This system leverages the Movie
 ## Key Features
 
 - **Collaborative Filtering**: Our system identifies user preferences based on the ratings of similar users, helping you discover movies that align with your tastes.
-  
 - **Content-Based Filtering**: By analyzing movie attributes like genre, director, and cast, this method provides recommendations tailored to your interests.
 
 - **Hybrid Recommendations**: Combining the strengths of collaborative and content-based filtering, this approach offers a more comprehensive recommendation experience.
@@ -35,7 +34,6 @@ To get the project up and running, follow these steps:
    cd movie-recommender
    ```
 
-
 ## How to Use
 
 1. Load and preprocess the dataset.
@@ -47,3 +45,10 @@ To get the project up and running, follow these steps:
 
 We welcome contributions! Feel free to open issues or submit pull requests to help improve this project.
 
+## Team Members
+
+| Name            | Account                                                                   |
+| --------------- | ------------------------------------------------------------------------- |
+| Mina Nabil      | @<a href="https://github.com/minasanta" target="_blank">minasanta</a>     |
+| Mohamed Haytham | @<a href="https://github.com/MedoHaytham" target="_blank">MedoHaytham</a> |
+| Omar Adel       | @<a href="https://github.com/omar55549" target="_blank">omar55549</a>     |
