@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/medoo/Documents/GitHub/ML_project/mlruns/0/13bb4fe2735f4f508301bd235053f02e/artifacts
+end_time: 1728767940307
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13bb4fe2735f4f508301bd235053f02e
+run_name: bald-crow-666
+run_uuid: 13bb4fe2735f4f508301bd235053f02e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728767935452
+status: 3
+tags: []
+user_id: medoo

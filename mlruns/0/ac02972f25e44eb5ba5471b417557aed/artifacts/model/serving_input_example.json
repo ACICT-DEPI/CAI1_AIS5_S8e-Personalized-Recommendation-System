@@ -1,0 +1,14 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "userId",
+      "movieId"
+    ],
+    "data": [
+      [
+        1,
+        2
+      ]
+    ]
+  }
+}

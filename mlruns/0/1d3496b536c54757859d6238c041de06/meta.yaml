@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/medoo/Documents/GitHub/ML_project/mlruns/0/1d3496b536c54757859d6238c041de06/artifacts
+end_time: 1728767586632
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d3496b536c54757859d6238c041de06
+run_name: amusing-carp-134
+run_uuid: 1d3496b536c54757859d6238c041de06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728767581419
+status: 4
+tags: []
+user_id: medoo

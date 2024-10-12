@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/medoo/Documents/GitHub/ML_project/mlruns/0/467d3fe4d1c94752a0d4a82033b6a55d/artifacts
+end_time: 1728767990895
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 467d3fe4d1c94752a0d4a82033b6a55d
+run_name: amazing-wasp-298
+run_uuid: 467d3fe4d1c94752a0d4a82033b6a55d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728767986091
+status: 3
+tags: []
+user_id: medoo

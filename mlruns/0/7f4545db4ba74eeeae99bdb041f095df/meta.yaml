@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/medoo/Documents/GitHub/ML_project/mlruns/0/7f4545db4ba74eeeae99bdb041f095df/artifacts
+end_time: 1728766832389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f4545db4ba74eeeae99bdb041f095df
+run_name: rare-fawn-181
+run_uuid: 7f4545db4ba74eeeae99bdb041f095df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728766826758
+status: 3
+tags: []
+user_id: medoo

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/medoo/Documents/GitHub/ML_project/mlruns/0/433ee91603a34443becd4b1aab2df576/artifacts
+end_time: 1728768569590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 433ee91603a34443becd4b1aab2df576
+run_name: rare-duck-384
+run_uuid: 433ee91603a34443becd4b1aab2df576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728768564239
+status: 3
+tags: []
+user_id: medoo

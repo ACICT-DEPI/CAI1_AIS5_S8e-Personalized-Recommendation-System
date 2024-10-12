@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/medoo/Documents/GitHub/ML_project/mlruns/0/a82f7daee61443c28cef338dea35e26c/artifacts
+end_time: 1728766721862
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a82f7daee61443c28cef338dea35e26c
+run_name: unequaled-robin-993
+run_uuid: a82f7daee61443c28cef338dea35e26c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728766715778
+status: 3
+tags: []
+user_id: medoo

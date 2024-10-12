@@ -1,0 +1,31 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.19
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.16.2
+model_size_bytes: 51987812
+model_uuid: 57d2e75f80f9471383c0ac93f5d8beb7
+run_id: 3b79588c24fd4e548e6c7c6f04a26420
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "userId", "required": true}, {"type": "long",
+    "name": "movieId", "required": true}, {"type": "double", "name": "rating", "required":
+    true}]'
+  outputs: null
+  params: null
+utc_time_created: '2024-10-12 21:02:52.995773'

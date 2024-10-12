@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/medoo/Documents/GitHub/ML_project/mlruns/0/c36ff5aa8a9242d686c183419e6caa5e/artifacts
+end_time: 1728767680375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c36ff5aa8a9242d686c183419e6caa5e
+run_name: able-flea-869
+run_uuid: c36ff5aa8a9242d686c183419e6caa5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728767675360
+status: 4
+tags: []
+user_id: medoo

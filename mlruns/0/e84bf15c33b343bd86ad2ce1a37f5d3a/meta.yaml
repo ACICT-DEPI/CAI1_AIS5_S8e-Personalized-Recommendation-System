@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/medoo/Documents/GitHub/ML_project/mlruns/0/e84bf15c33b343bd86ad2ce1a37f5d3a/artifacts
+end_time: 1728768102701
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e84bf15c33b343bd86ad2ce1a37f5d3a
+run_name: trusting-whale-776
+run_uuid: e84bf15c33b343bd86ad2ce1a37f5d3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728768097131
+status: 3
+tags: []
+user_id: medoo
