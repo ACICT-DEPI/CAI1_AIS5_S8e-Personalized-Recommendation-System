@@ -78,3 +78,5 @@ if st.button("Recommend"):
         st.write(recommendations[['title', 'year', 'vote_average', 'est']])
     else:
         st.write("Please enter a movie title.")
+
+# streamlit run hybrid_recommender.py
