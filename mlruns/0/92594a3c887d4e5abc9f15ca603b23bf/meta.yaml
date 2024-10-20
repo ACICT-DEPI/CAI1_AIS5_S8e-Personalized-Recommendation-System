@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/medoo/Documents/GitHub/ML_project/mlruns/0/92594a3c887d4e5abc9f15ca603b23bf/artifacts
+end_time: 1729427649225
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92594a3c887d4e5abc9f15ca603b23bf
+run_name: intelligent-dove-795
+run_uuid: 92594a3c887d4e5abc9f15ca603b23bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729427644150
+status: 3
+tags: []
+user_id: medoo
